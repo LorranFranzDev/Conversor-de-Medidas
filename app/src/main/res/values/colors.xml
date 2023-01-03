@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_200">#00FFFF</color>
+    <color name="primary_500">#008B8B</color>
+    <color name="primary_700">#48D1CC</color>
+    <color name="secondary_200">#7FFFD4</color>
+    <color name="secondary_700">#5F9EA0</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    //Button Clean
+    <color name="light_red">#FF6347</color>
+
+    <!-- Cores tela Splash -->
+    <color name="cultured">#f5f5f5</color>
+
+</resources>
