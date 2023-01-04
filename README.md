@@ -36,7 +36,6 @@ Faça o download da <a href="apk/app-debug.apk?raw=true">APK diretamente</a>. Vo
 
 - Jetpack 
   - ViewBinding: Liga os componentes do XML no Kotlin através de uma classe que garante segurança de tipo e outras vantagens.
-  - Room: Biblioteca de abstração do banco de dados SQLite que garante segurança em tempo de compilação e facilidade de uso.
   - Custom Views: View customizadas feitas do zero usando XML.
   - [...]
 
